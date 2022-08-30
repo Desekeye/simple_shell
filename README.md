@@ -1,1 +1,1 @@
-0x16. C - Simple Shell. Authored by Therryad and Desekeye
+0x16. C - Simple Shell. Authored by Therry and Desekeye
